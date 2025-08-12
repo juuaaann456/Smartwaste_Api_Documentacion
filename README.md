@@ -44,3 +44,15 @@ Nuestro objetivo principal es diseñar e implementar una solución inteligente p
 | Juan Alberto Vazquez Hernandez | Desarrollador Frontend       | [@juuaaann456](https://github.com/juuaaann456)           |  
 | Omar Lemuel Espejel Lira       | Desarrollador Database       | [@lemuel-26](https://github.com/lemuel-26)             |  
 | Zamira Cuevas Zamora   | CEO y Documentador           | [ZamyCuevas](https://github.com/ZamyCuevas)         |  
+<HR>
+
+### 🛠️ Tecnologías Utilizadas  
+
+| Tecnología      | Descripción                                                                      |
+|-----------------|----------------------------------------------------------------------------------|
+| ![Vue.js](https://img.shields.io/badge/Vue.js-Framework-brightgreen)   | Framework progresivo para la construcción de interfaces de usuario |
+| ![Node.js](https://img.shields.io/badge/Node.js-Server-green)         | Entorno de ejecución de JavaScript para el backend |
+| ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)          | Base de datos relacional para la gestión de datos |
+| ![CSS](https://img.shields.io/badge/CSS-Style-blue)                  | Estilos y diseño responsivo |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-Scripting-yellow) | Lenguaje de programación para la lógica en el frontend y backend |
+| ![README](https://img.shields.io/badge/README-Documentation-lightgrey) | Archivo de documentación para el proyecto |
